@@ -1,4 +1,5 @@
 # Capstone GIT day1
 
 Capstoneeee!>!>!
-GIthub tests
+GITHUB testing stuff here
+HELLO!
